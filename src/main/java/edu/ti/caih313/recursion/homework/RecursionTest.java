@@ -1,4 +1,4 @@
-package edu.ti.caih313.recursion.simple;
+package edu.ti.caih313.recursion.homework;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
